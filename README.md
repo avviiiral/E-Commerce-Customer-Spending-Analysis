@@ -41,11 +41,11 @@ These plots help identify trends and correlations in customer behavior.
    ```bash
    git clone <repository-url>
 2. Install required libraries
-
+    ```bash
     pip install pandas matplotlib seaborn
 
 3. Open the notebook
-
+    ```bash
     jupyter notebook
 
 
